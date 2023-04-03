@@ -13,15 +13,11 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 
 {{</lead>}}
 
-
-
-{{<box>}}
+{{<box title="hallo">}}
 
 Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
 
 {{</box>}}
-
-
 
 <!--EndFragment-->
 
