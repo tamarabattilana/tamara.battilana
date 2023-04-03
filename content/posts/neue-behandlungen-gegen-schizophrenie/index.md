@@ -15,7 +15,7 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 
 {{<box title="hallo">}}
 
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
+Im Code zwischen den Anführungszeichen steht der sichtbare Text des Blockes. Der Text der jetzt hier steht, ist der Klapptext.
 
 {{</box>}}
 
