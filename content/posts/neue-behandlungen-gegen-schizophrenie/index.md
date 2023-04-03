@@ -5,4 +5,24 @@ draft = false
 pinned = false
 tags = ["deutsch", "reportage"]
 +++
-Schizophrenie
+# Schizophrenie
+
+{{<lead>}}
+
+Ein Lead steht zwischen zwei solchen Blöcken.
+
+{{</lead>}}
+
+
+
+{{<box>}}
+
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.
+
+{{</box>}}
+
+
+
+<!--EndFragment-->
+
+<!--EndFragment-->
